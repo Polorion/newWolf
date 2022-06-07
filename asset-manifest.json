@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newWolf/static/css/main.eda5b276.css",
+    "main.js": "/newWolf/static/js/main.6d9d4841.js",
+    "static/css/406.7b68d57a.chunk.css": "/newWolf/static/css/406.7b68d57a.chunk.css",
+    "static/js/406.ea8eda3f.chunk.js": "/newWolf/static/js/406.ea8eda3f.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newWolf/static/js/787.28cb0dcd.chunk.js",
+    "static/media/avataWolf.jpg": "/newWolf/static/media/avataWolf.e01234594de41353543c.jpg",
+    "static/media/wolf.jpg": "/newWolf/static/media/wolf.003f58d9e229d4100baa.jpg",
+    "index.html": "/newWolf/index.html",
+    "static/media/Rolling-4.2s-150px.svg": "/newWolf/static/media/Rolling-4.2s-150px.27637f2087c1f4451b70df616e9f815d.svg",
+    "main.eda5b276.css.map": "/newWolf/static/css/main.eda5b276.css.map",
+    "main.6d9d4841.js.map": "/newWolf/static/js/main.6d9d4841.js.map",
+    "406.7b68d57a.chunk.css.map": "/newWolf/static/css/406.7b68d57a.chunk.css.map",
+    "406.ea8eda3f.chunk.js.map": "/newWolf/static/js/406.ea8eda3f.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newWolf/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda5b276.css",
+    "static/js/main.6d9d4841.js"
+  ]
+}
