@@ -1,0 +1,10 @@
+.btn {
+  background-color: transparent;
+  color: #fff;
+  outline:3px solid var(--bgdialog);
+  border-radius: 5px;
+  padding: 5px 10px;
+
+
+
+}

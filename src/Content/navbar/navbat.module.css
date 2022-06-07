@@ -1,0 +1,19 @@
+.body_nav {
+  min-width:  150px;
+  border-radius: 25px;
+  border-right: 5px solid rgba(8, 237, 103, 0.753);
+  border-left: 5px solid rgba(8, 237, 103, 0.753);
+  background-color: rgb(8, 27, 237);
+  margin-right: 40px;
+  height: 100vh;
+}
+
+.nav__item {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+.nav__list {
+  margin-bottom: 50px;
+  padding: 10px;
+}

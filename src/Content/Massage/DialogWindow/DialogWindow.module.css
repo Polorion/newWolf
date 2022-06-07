@@ -1,0 +1,11 @@
+.body {
+  flex: 1 1 70%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: var(--bgdialog);
+  padding: 30px;
+  outline: 2px dashed var(--black);
+  outline-offset: -15px;
+  border-radius: 25px;
+}

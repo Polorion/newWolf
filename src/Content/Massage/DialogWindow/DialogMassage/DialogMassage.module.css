@@ -1,0 +1,25 @@
+
+.left {
+  flex-direction: row-reverse;
+}
+
+.itemli {
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.right.itemli img {
+  height: 30px;
+  width: 30px;
+  border-radius: 100px;
+  margin-left: 10px;
+}
+
+.left.itemli img {
+  height: 30px;
+  width: 30px;
+  border-radius: 100px;
+  margin-right: 10px;
+}

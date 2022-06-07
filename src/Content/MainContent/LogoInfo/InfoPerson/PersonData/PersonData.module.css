@@ -1,0 +1,23 @@
+.active {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: var(--ligthgreen);
+}
+.noActive {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: var(--red);
+}
+.Job {
+    display: flex;
+    align-items: center;
+}
+
+.test {
+    background-color: red;
+    color: black;
+}

@@ -1,0 +1,46 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "s": [
+    {
+      "id": 1,
+      "follow": false,
+      "avatar": "https://placeimg.com/640/480/animals",
+      "name": "olegs",
+      "old": 29,
+      "from": {
+        "city": "SPb",
+        "cuntry": "Russia"
+      }
+    },
+    {
+      "id": 2,
+      "follow": false,
+      "avatar": "https://placeimg.com/640/480/animals",
+      "name": "oleg",
+      "old": 29,
+      "from": {
+        "city": "SPb",
+        "cuntry": "Russia"
+      }
+    }, {
+      "id": 3,
+      "follow": false,
+      "avatar": "https://placeimg.com/640/480/animals",
+      "name": "olegq",
+      "old": 29,
+      "from": {
+        "city": "SPb",
+        "cuntry": "Russia"
+      }
+    }],
+  "profile": { "name": "typicode" }
+}
+
+
+
+

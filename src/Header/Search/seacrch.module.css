@@ -1,0 +1,37 @@
+.search {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.serch_button {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgba(114, 10, 193, 0.441);
+}
+
+.serch_input {
+  position: relative;
+  transform: translateX(170px);
+
+  background: rgba(255, 255, 255, 0.347);
+  border-radius: 30px;
+  padding: 0 20px;
+  max-width: 170px;
+  transition: all ease .3s;
+}
+
+.serch_input.active {
+  transform: translateX(0px);
+}
+
+.label_serch {
+	max-width: 170px;
+	overflow: hidden;
+	position: relative;
+}
+

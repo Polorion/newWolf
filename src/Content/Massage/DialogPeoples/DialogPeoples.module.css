@@ -1,0 +1,13 @@
+.body_peope_dialog {
+  flex: 0 0 30%;
+
+}
+
+.list_body {
+  max-width: 90%;
+  padding: 30px;
+  outline: 2px dashed var(--black);
+  outline-offset: -15px;
+  border-radius: 25px;
+  background-color: var(--bgdialog);
+}

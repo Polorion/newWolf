@@ -1,0 +1,33 @@
+.body_nav {
+  padding: 10px;
+  border-radius: 25px;
+  border-right: 5px solid rgba(8, 237, 103, 0.753);
+  border-left: 5px solid rgba(8, 237, 103, 0.753);
+  margin-right: 40px;
+  background-color: rgb(8, 27, 237);
+}
+
+.nav__item {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.nav__item svg {
+  margin-right: 10px;
+}
+
+.nav__link {
+  font-size: 18px;
+  color: rgb(0, 242, 255);
+  transition: color ease .4s
+}
+
+.nav__link:hover {
+  color: rgb(0, 251, 0)
+}
+
+.active {
+  color: gold;
+  font-size: 18px;
+}

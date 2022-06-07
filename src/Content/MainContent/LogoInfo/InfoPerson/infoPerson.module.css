@@ -1,0 +1,17 @@
+
+
+
+.inf_person {
+  padding: 20px;
+	background-color: rgba(66, 4, 4, 0.977);
+	border-radius: 10px;
+}
+
+
+.info_person {
+  padding: 20px;
+  background-color: green;
+  width: 100%;
+  border-radius: 30px;
+}
+

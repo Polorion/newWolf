@@ -1,0 +1,59 @@
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.avatar_btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.span_btn button {
+    background-color: var(--blue);
+    color: var(--black);
+    padding: 10px;
+    width: 100px;
+}
+
+.span_btn button:disabled{
+    background-color: red;
+    opacity: 0.1;
+}
+
+.body {
+    display: flex;
+    margin-bottom: 30px;
+    max-width: 70%;
+}
+
+.infoPerson {
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px dashed var(--black);
+}
+
+.avatar {
+    margin-bottom: 10px;
+}
+
+.left,
+.right {
+    display: flex;
+    flex-direction: column;
+}
+
+.left > div:first-child ,
+.right > div:first-child {
+    margin-bottom: 20px;
+    padding: 5px;
+    border: 1px solid var(--red);
+}
+
+.active {
+    outline: 3px solid var(--ligthgreen);
+}

@@ -1,0 +1,14 @@
+.body {
+  display: flex;
+  background-color: var(--bgdialog);
+  justify-content: center;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.title {
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+}

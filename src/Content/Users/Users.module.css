@@ -1,0 +1,30 @@
+.isActive {
+    font-size: 20px;
+}
+.pagination {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.paginationBody {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20% 0 0 ;
+}
+
+.btnPrev button {
+    color: red;
+}
+.btn  {
+     width: 30px;
+     height: 30px;
+}
+.btn button  {
+
+    color: red;
+}
+
+.btn button {
+    background-color: transparent;
+}
+
