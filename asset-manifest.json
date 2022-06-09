@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/newWolf/static/css/main.210664a5.css",
-    "main.js": "/newWolf/static/js/main.9d775b80.js",
+    "main.js": "/newWolf/static/js/main.39d308b1.js",
     "static/css/118.4db4e606.chunk.css": "/newWolf/static/css/118.4db4e606.chunk.css",
-    "static/js/118.1a0d3070.chunk.js": "/newWolf/static/js/118.1a0d3070.chunk.js",
+    "static/js/118.50355d60.chunk.js": "/newWolf/static/js/118.50355d60.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/newWolf/static/js/787.28cb0dcd.chunk.js",
     "static/media/avataWolf.jpg": "/newWolf/static/media/avataWolf.e01234594de41353543c.jpg",
     "static/media/wolf.jpg": "/newWolf/static/media/wolf.003f58d9e229d4100baa.jpg",
     "index.html": "/newWolf/index.html",
     "static/media/Rolling-4.2s-150px.svg": "/newWolf/static/media/Rolling-4.2s-150px.27637f2087c1f4451b70df616e9f815d.svg",
     "main.210664a5.css.map": "/newWolf/static/css/main.210664a5.css.map",
-    "main.9d775b80.js.map": "/newWolf/static/js/main.9d775b80.js.map",
+    "main.39d308b1.js.map": "/newWolf/static/js/main.39d308b1.js.map",
     "118.4db4e606.chunk.css.map": "/newWolf/static/css/118.4db4e606.chunk.css.map",
-    "118.1a0d3070.chunk.js.map": "/newWolf/static/js/118.1a0d3070.chunk.js.map",
+    "118.50355d60.chunk.js.map": "/newWolf/static/js/118.50355d60.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/newWolf/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.210664a5.css",
-    "static/js/main.9d775b80.js"
+    "static/js/main.39d308b1.js"
   ]
 }
